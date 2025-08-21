@@ -2,19 +2,7 @@
 
 **Live Demo:** [dspstravellist.netlify.app](https://dspstravellist.netlify.app/)
 
-This project is the **Travel List** component from Jonas Schmedtmann’s [Ultimate React Course](https://www.udemy.com) (Udemy). It was built as part of the course’s hands-on learning modules. The Travel List app allows users to add, mark, and delete items from a simple travel itinerary.
-
----
-
-##  Table of Contents
-
-- [Technologies Used](#technologies-used)  
-- [Features](#features)  
-- [Setup & Installation](#setup--installation)  
-- [Usage](#usage)  
-- [Deployment](#deployment)  
-- [Inspiration & Attribution](#inspiration--attribution)  
-- [License](#license)
+A simple React app to manage a travel packing list. You can add items, mark them as packed/unpacked, sort the list, and remove items when no longer needed.
 
 ---
 
@@ -28,15 +16,30 @@ This project is the **Travel List** component from Jonas Schmedtmann’s [Ultima
 
 ## Features
 
-- **Add Items**: Users can add new destinations to their travel list.
-- **Toggle Completion**: Mark list items as "visited" or "not visited".
-- **Delete Items**: Remove destinations from the list.
-- **Persistent Functionality**: Although basic, the app reflects state changes immediately in the UI.
+- Add new travel items.
+- Mark items as packed or not packed.
+- Delete items from the list.
+- **Sort items** by different criteria (e.g., input order, description, packed status).
+- Instant state updates with a clean UI.
 
 ---
 
-## Setup & Installation
+## Deployment
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+This project is hosted on **Netlify**.  
+To deploy a similar app:
+1. Push your project to GitHub.  
+2. On Netlify → **New Site from Git** → select repo.  
+3. Build command: `npm run build`  
+4. Publish directory: `build`  
+5. Deploy 🚀  
+
+Live Example: [dspstravellist.netlify.app](https://dspstravellist.netlify.app/)
+
+---
+
+## Note
+
+This project was built while practicing React concepts, inspired by exercises from a React course on Udemy by **Jonas Schmedtmann**.  
+
+---
