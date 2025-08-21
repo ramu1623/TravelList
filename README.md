@@ -1,4 +1,4 @@
-# Travel List (DSPs Travel List)
+# Travel List React App
 
 **Live Demo:** [dspstravellist.netlify.app](https://dspstravellist.netlify.app/)
 
