@@ -42,4 +42,3 @@ Live Example: [dspstravellist.netlify.app](https://dspstravellist.netlify.app/)
 
 This project was built while practicing React concepts, inspired by exercises from a React course on Udemy by **Jonas Schmedtmann**.  
 
----
