@@ -34,7 +34,6 @@ To deploy a similar app:
 4. Publish directory: `build`  
 5. Deploy 🚀  
 
-Live Example: [dspstravellist.netlify.app](https://dspstravellist.netlify.app/)
 
 ---
 
